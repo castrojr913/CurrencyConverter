@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/app_theme_primary</item>
+        <item name="colorPrimaryDark">@color/app_theme_primary_dark</item>
+        <item name="colorAccent">@color/app_theme_accent</item>
+    </style>
+
+    <!-- Toolbar -->
+    <style name="AppTheme.Toolbar">
+        <item name="popupTheme">@style/Theme.AppCompat.NoActionBar</item>
+        <item name="theme">@style/ThemeOverlay.AppCompat.Dark.ActionBar</item>
+        <item name="android:background">@color/app_toolbar_background</item>
+    </style>
+
+    <!-- Progress Bar -->
+    <style name="AppTheme.ProgressBar">
+        <item name="android:background">@color/app_progressbar_background</item>
+    </style>
+
+    <style name="AppTheme.ProgressBar.Circular">
+        <item name="android:layout_width">@dimen/app_progressbar_circular_width</item>
+        <item name="android:layout_height">@dimen/app_progressbar_circular_height</item>
+    </style>
+
+    <!-- EditTexts -->
+    <style name="AppTheme.EditText"></style>
+
+    <style name="AppTheme.EditText.Material">
+        <item name="met_textColor">@color/app_edittext_text</item>
+        <item name="met_textColorHint">@color/app_edittext_hint</item>
+        <item name="android:drawablePadding">@dimen/app_edittext_drawable_padding</item>
+    </style>
+
+    <!-- TextViews -->
+    <style name="AppTheme.TextView"></style>
+
+    <style name="AppTheme.TextView.CurrencyValues">
+        <item name="android:maxLines">1</item>
+        <item name="android:textSize">@dimen/app_fragment_currency_textview_values_size</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+
+</resources>

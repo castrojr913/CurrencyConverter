@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+
+    <!-- Messages (General Purpose) -->
+    <string name="error_connectivity">
+        <![CDATA[There was an error in regard to network status:\n
+        1. Check Wifi / Data ports. Try turning them off and turning them on again.\n
+        2. It may be a trouble with the Service Provider or Network Manager.]]>
+    </string>
+    <string name="error_timeout">The server doesn\'t answer straight away so far, please try later again.</string>
+    <string name="error_webservice">There was an unknown issue. Please, try later again and it still persists, inform the trouble to the support team.</string>
+    <string name="error_number_negative">Negative numbers are not accepted</string>
+
+    <!-- Dialogs -->
+    <string name="dialog_error_title">Oh no!</string>
+    <string name="dialog_error_button_ok">I got it</string>
+
+    <!-- Drawer Activity -->
+    <string name="activity_drawer_item_currency">Currency</string>
+    <string name="activity_drawer_item_exit">Exit</string>
+
+    <!-- Currency Fragment -->
+    <string name="fragment_currency_progressbar_text">Getting currencies &#8230;</string>
+    <string name="fragment_currency_quantity">Write the quantity to convert</string>
+    <string name="fragment_currency_value_euro">EUR</string>
+    <string name="fragment_currency_value_yen">YEN</string>
+    <string name="fragment_currency_value_uk_pound">UK Pound</string>
+    <string name="fragment_currency_value_reais">Reais</string>
+    <string name="fragment_currency_button_calculate">Calculate</string>
+    <string name="fragment_currency_bar_chart_legend">Currencies values as to USD</string>
+
+</resources>

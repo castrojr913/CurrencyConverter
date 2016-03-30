@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- App Theme -->
+    <color name="app_theme_primary">#EEEEEE</color>
+    <color name="app_theme_primary_dark">#044C7F</color>
+    <color name="app_theme_accent">#044C7F</color>
+
+    <!-- Toolbar -->
+    <color name="app_toolbar_background">#1E88E5</color>
+
+    <!-- Progress Bar -->
+    <color name="app_progressbar_background">#1E88E5</color>
+
+    <!-- EditText -->
+    <color name="app_edittext_text">#444444</color>
+    <color name="app_edittext_hint">#AAAAAA</color>
+
+    <!-- Drawer -->
+    <color name="app_drawer_header_background">#1E88E5</color>
+    <color name="app_drawer_text_selected">#044C7F</color>
+
+</resources>

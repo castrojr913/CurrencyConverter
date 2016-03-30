@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.jacr.currencyconverter.controllers.CurrencyFragment">
+
+    <com.rengwuxian.materialedittext.MaterialEditText
+        android:id="@+id/fragment_currency_edittext_quantity"
+        style="@style/AppTheme.EditText.Material"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/ic_currency_quantity"
+        android:drawableStart="@drawable/ic_currency_quantity"
+        android:hint="@string/fragment_currency_quantity"
+        android:imeOptions="actionDone"
+        android:inputType="number"
+        android:maxLength="8" />
+
+    <com.gc.materialdesign.views.ButtonRectangle
+        android:id="@+id/fragment_currency_button_calculate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/fragment_currency_edittext_quantity"
+        android:layout_marginTop="10dp"
+        android:text="@string/fragment_currency_button_calculate" />
+
+    <RelativeLayout
+        android:id="@+id/fragment_currency_layout_currencies"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/fragment_currency_button_calculate"
+        android:layout_marginTop="10dp">
+
+        <TextView
+            android:id="@+id/fragment_currency_text_euro"
+            style="@style/AppTheme.TextView.CurrencyValues"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/fragment_currency_value_euro" />
+
+        <TextView
+            android:id="@+id/fragment_currency_text_yen"
+            style="@style/AppTheme.TextView.CurrencyValues"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/fragment_currency_text_euro"
+            android:layout_alignStart="@+id/fragment_currency_text_euro"
+            android:layout_below="@+id/fragment_currency_text_euro"
+            android:maxLines="1"
+            android:text="@string/fragment_currency_value_yen" />
+
+        <TextView
+            android:id="@+id/fragment_currency_text_pound"
+            style="@style/AppTheme.TextView.CurrencyValues"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/fragment_currency_text_euro"
+            android:layout_alignStart="@+id/fragment_currency_text_euro"
+            android:layout_below="@+id/fragment_currency_text_yen"
+            android:maxLines="1"
+            android:text="@string/fragment_currency_value_uk_pound" />
+
+        <TextView
+            android:id="@+id/fragment_currency_text_reais"
+            style="@style/AppTheme.TextView.CurrencyValues"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/fragment_currency_text_euro"
+            android:layout_alignStart="@+id/fragment_currency_text_euro"
+            android:layout_below="@+id/fragment_currency_text_pound"
+            android:maxLines="1"
+            android:text="@string/fragment_currency_value_reais" />
+
+        <com.github.mikephil.charting.charts.BarChart
+            android:id="@+id/fragment_currency_bar_chart"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/fragment_currency_text_reais"
+            android:layout_marginTop="20dp" />
+
+    </RelativeLayout>
+
+    <include
+        android:id="@+id/fragment_currency_view_progressbar"
+        layout="@layout/progressbar_circular"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/fragment_currency_layout_currencies"
+        android:layout_marginTop="15dp"
+        android:visibility="gone" />
+
+
+</RelativeLayout>

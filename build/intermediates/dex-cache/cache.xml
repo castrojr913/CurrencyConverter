@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\PROYECTOS\Android\HugeInc\CurrencyConverter\app\build\intermediates\exploded-aar\com.mikepenz\materialize\0.2.5\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3e33417d80e79d82adb03a964540362d4e2ca5ef">
+        <dex dex="D:\PROYECTOS\Android\HugeInc\CurrencyConverter\app\build\intermediates\pre-dexed\release\classes-9bd756d58f5a67450ab93a3433de57a75c6f4ce9.jar" />
+    </item>
+    <item
+        jar="D:\PROYECTOS\Android\HugeInc\CurrencyConverter\app\build\intermediates\exploded-aar\com.rengwuxian.materialedittext\library\2.1.4\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="288913b440a3c61c30aa171095453a605432277a">
+        <dex dex="D:\PROYECTOS\Android\HugeInc\CurrencyConverter\app\build\intermediates\pre-dexed\release\classes-2b0cd802c683b1dda7df04c7efdd7aea44cbcccd.jar" />
+    </item>
+    <item
+        jar="C:\Users\jesus\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\PROYECTOS\Android\HugeInc\CurrencyConverter\app\build\intermediates\pre-dexed\release\library-2.4.0-da5f884167d38136a510727000db970385952369.jar" />
+    </item>
+    <item
+        jar="D:\PROYECTOS\Android\HugeInc\CurrencyConverter\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="D:\PROYECTOS\Android\HugeInc\CurrencyConverter\app\build\intermediates\pre-dexed\release\classes-1b734c9b1fe94b73e1d6a3b3f02871b3986902c6.jar" />
+    </item>
+    <item
+        jar="D:\PROYECTOS\Android\HugeInc\CurrencyConverter\app\build\intermediates\exploded-aar\com.jakewharton.timber\timber\4.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="80e5ca9074f4a0d2c467fe41ec7d7e186967aae7">
+        <dex dex="D:\PROYECTOS\Android\HugeInc\CurrencyConverter\app\build\intermediates\pre-dexed\release\classes-410bc5c06fb114883d47fa21cfed960ac7528d8e.jar" />
+    </item>
+    <item
+        jar="D:\PROYECTOS\Android\HugeInc\CurrencyConverter\app\build\intermediates\exploded-aar\com.mikepenz\materialdrawer\4.3.4\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1206e4db22600d01a6de5c6569b04bf3296ce6de">
+        <dex dex="D:\PROYECTOS\Android\HugeInc\CurrencyConverter\app\build\intermediates\pre-dexed\release\classes-fa702762bb497ce503e1c0a76cbb4b37da8b0cb8.jar" />
+    </item>
+    <item
+        jar="C:\Users\jesus\.gradle\caches\modules-2\files-2.1\org.androidannotations\androidannotations-api\3.3.2\7d6149d856b880bbd676047aacb8446a758fbbdb\androidannotations-api-3.3.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7d6149d856b880bbd676047aacb8446a758fbbdb">
+        <dex dex="D:\PROYECTOS\Android\HugeInc\CurrencyConverter\app\build\intermediates\pre-dexed\release\androidannotations-api-3.3.2-34af42d11221237153c1c649823ae5e8740d80a3.jar" />
+    </item>
+    <item
+        jar="C:\Users\jesus\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="D:\PROYECTOS\Android\HugeInc\CurrencyConverter\app\build\intermediates\pre-dexed\release\support-annotations-23.0.1-24e9a7c80d78702807462c1cbb7086b4e9a532f7.jar" />
+    </item>
+    <item
+        jar="D:\PROYECTOS\Android\HugeInc\CurrencyConverter\app\build\intermediates\exploded-aar\com.mikepenz\iconics-core\1.7.6\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ea05949390565bd6d714ac7d99158b3c0bc6a175">
+        <dex dex="D:\PROYECTOS\Android\HugeInc\CurrencyConverter\app\build\intermediates\pre-dexed\release\classes-472ad50fbf9a63bbdfa1dc0b1b34ce49c82bbafa.jar" />
+    </item>
+    <item
+        jar="D:\PROYECTOS\Android\HugeInc\CurrencyConverter\app\build\intermediates\exploded-aar\com.github.navasmdc\MaterialDesign\1.5\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="12b228574de7977e56e41cbfb385b1463bbdb41a">
+        <dex dex="D:\PROYECTOS\Android\HugeInc\CurrencyConverter\app\build\intermediates\pre-dexed\release\classes-64de727614e258a16cb3d3dba9a0a3848fdc64c1.jar" />
+    </item>
+    <item
+        jar="C:\Users\jesus\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.4\695b63d702f505b9b916e02272e3b6381bade7f\gson-2.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="D:\PROYECTOS\Android\HugeInc\CurrencyConverter\app\build\intermediates\pre-dexed\release\gson-2.4-e2fd634dca0dfb4aa6b111a60714b9f4cdebf463.jar" />
+    </item>
+    <item
+        jar="D:\PROYECTOS\Android\HugeInc\CurrencyConverter\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="D:\PROYECTOS\Android\HugeInc\CurrencyConverter\app\build\intermediates\pre-dexed\release\classes-9c0a40b1e230e404cfe1f937ed2b4c0141e1915b.jar" />
+    </item>
+    <item
+        jar="C:\Users\jesus\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="D:\PROYECTOS\Android\HugeInc\CurrencyConverter\app\build\intermediates\pre-dexed\release\okio-1.6.0-255268f3cad743e00af448d572001dbb027969f3.jar" />
+    </item>
+    <item
+        jar="D:\PROYECTOS\Android\HugeInc\CurrencyConverter\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="D:\PROYECTOS\Android\HugeInc\CurrencyConverter\app\build\intermediates\pre-dexed\release\internal_impl-23.0.1-6bb40b524ea0b67fb261536c494a484923846a6e.jar" />
+    </item>
+    <item
+        jar="D:\PROYECTOS\Android\HugeInc\CurrencyConverter\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="D:\PROYECTOS\Android\HugeInc\CurrencyConverter\app\build\intermediates\pre-dexed\release\classes-ff84a26d935c0491ff529a1b1c10fd61c63de465.jar" />
+    </item>
+    <item
+        jar="C:\Users\jesus\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v2.1.4\e075f4e80e11780d6d5262fee9fcfb859fa55864\MPAndroidChart-v2.1.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e075f4e80e11780d6d5262fee9fcfb859fa55864">
+        <dex dex="D:\PROYECTOS\Android\HugeInc\CurrencyConverter\app\build\intermediates\pre-dexed\release\MPAndroidChart-v2.1.4-b3662caae2cb1834a260d405aaf61f5b04667667.jar" />
+    </item>
+    <item
+        jar="C:\Users\jesus\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="D:\PROYECTOS\Android\HugeInc\CurrencyConverter\app\build\intermediates\pre-dexed\release\okhttp-2.5.0-33128fe32a1b553e5fefb256cf09092fdc923655.jar" />
+    </item>
+    <item
+        jar="D:\PROYECTOS\Android\HugeInc\CurrencyConverter\app\build\intermediates\exploded-aar\com.afollestad\material-dialogs\0.7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fa22e1ee8204ad7f9d51b79de3e996d9ed6dc523">
+        <dex dex="D:\PROYECTOS\Android\HugeInc\CurrencyConverter\app\build\intermediates\pre-dexed\release\classes-cf186f1fb11ae32eb80fd58c39fc69c843e791a8.jar" />
+    </item>
+
+</items>
